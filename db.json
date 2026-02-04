@@ -1,62 +1,84 @@
-[
-  {
-    "postId": 1,
-    "title": "How to stay fit",
-    "likes": 20,
-    "timestamp": "2026-02-04T14:32:18Z"
-  },
-  {
-    "postId": 2,
-    "title": "How to eat healthy",
-    "likes": 12,
-    "timestamp": "2026-02-04T14:32:18Z"
-  },
-  {
-    "postId": 1,
-    "title": "How to stay fit",
-    "likes": 13,
-    "timestamp": "2026-02-04T14:32:18Z"
-  },
-  {
-    "postId": 1,
-    "title": "How to stay fit",
-    "likes": 4,
-    "timestamp": "2026-02-04T14:32:18Z"
-  },
-  {
-    "postId": 3,
-    "title": "Tips for better sleep",
-    "likes": 8,
-    "timestamp": "2026-02-04T15:10:00Z"
-  },
-  {
-    "postId": 4,
-    "title": "Meditation for beginners",
-    "likes": 15,
-    "timestamp": "2026-02-04T15:45:30Z"
-  },
-  {
-    "postId": 5,
-    "title": "Home workout routines",
-    "likes": 22,
-    "timestamp": "2026-02-04T16:05:10Z"
-  },
-  {
-    "postId": 6,
-    "title": "Healthy smoothie recipes",
-    "likes": 18,
-    "timestamp": "2026-02-04T16:25:42Z"
-  },
-  {
-    "postId": 7,
-    "title": "Benefits of walking daily",
-    "likes": 11,
-    "timestamp": "2026-02-04T17:00:05Z"
-  },
-  {
-    "postId": 8,
-    "title": "Stress management techniques",
-    "likes": 14,
-    "timestamp": "2026-02-04T17:30:50Z"
-  }
-]
+{
+  "items": [
+    {
+      "postId": 1,
+      "title": "How to stay fit",
+      "likes": 20,
+      "timestamp": "2026-02-04T14:32:18Z"
+    },
+    {
+      "postId": 2,
+      "title": "How to eat healthy",
+      "likes": 12,
+      "timestamp": "2026-02-04T14:32:18Z"
+    },
+    {
+      "postId": 1,
+      "title": "How to stay fit",
+      "likes": 13,
+      "timestamp": "2026-02-04T14:32:18Z"
+    },
+    {
+      "postId": 1,
+      "title": "How to stay fit",
+      "likes": 4,
+      "timestamp": "2026-02-04T14:32:18Z"
+    },
+    {
+      "postId": 3,
+      "title": "Tips for better sleep",
+      "likes": 8,
+      "timestamp": "2026-02-04T15:10:00Z"
+    },
+    {
+      "postId": 4,
+      "title": "Meditation for beginners",
+      "likes": 15,
+      "timestamp": "2026-02-04T15:45:30Z"
+    },
+    {
+      "postId": 5,
+      "title": "Home workout routines",
+      "likes": 22,
+      "timestamp": "2026-02-04T16:05:10Z"
+    },
+    {
+      "postId": 6,
+      "title": "Healthy smoothie recipes",
+      "likes": 18,
+      "timestamp": "2026-02-04T16:25:42Z"
+    },
+    {
+      "postId": 7,
+      "title": "Benefits of walking daily",
+      "likes": 11,
+      "timestamp": "2026-02-04T17:00:05Z"
+    },
+    {
+      "postId": 8,
+      "title": "Stress management techniques",
+      "likes": 14,
+      "timestamp": "2026-02-04T17:30:50Z"
+    }
+  ],
+  "posts": [
+    {
+      "userId": 1,
+      "id": 1,
+      "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "body": "short message"
+    },
+    {
+      "userId": 1,
+      "id": 2,
+      "title": "qui est esse",
+      "body": "short message"
+    },
+    {
+      "userId": 1,
+      "id": 3,
+      "title": "ea molestias quasi exercitationem repellat qui ipsa sit aut",
+      "body": "short message"
+    }
+  ]
+}
